@@ -1,0 +1,29 @@
+{
+"name": "APS_NK_BUG_BOT",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/APS-NK-MODS/APS-NK_BUG_BOT",
+  "logo": "https://www.linkpicture.com/q/virgam.jpeg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        },
+
+        {
+
+            "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+
+        },
+
+        {
+
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+
+        }
+
+    ]
+}
