@@ -20,7 +20,7 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@KalanaKaveesha/APS-NK-BUG-BOT-1?v=1)
 
 ## `CHANGE SESSION`
 
